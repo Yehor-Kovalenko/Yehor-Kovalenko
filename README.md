@@ -1,4 +1,7 @@
-Hello, I am @Yehor-Kovalenko
+#### Hello, I am @Yehor-Kovalenko
+I am very ambitious person which is constantly learning. 
+Winner of the hackathon for the big international bank for corporative clients.
+I love sports, especially climbing and rollerblading.
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/)) [My LinkedIn profile](https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/)
 - 📫 How to reach me ka.egor.ka@gmail.com
 # Software Developer, ML developer
@@ -7,13 +10,13 @@ Hello, I am @Yehor-Kovalenko
 ### Software Engineering
   - OOP principles --> SOLID, KISS, DRY
   - Software modeling using **UML diagrams**
-  - As a *Solution Architect and Team Lead* managing and coordinating team of 12 software developers on a large-scale software project
+  - As a *Chief Solution Architect and Team Lead* managing and coordinating team of 12 software developers on a large-scale state level software project that could be used for coordinating actions and resources in the emergency situation
   - **Design patterns** 
 ### LANGUAGES:
 - _**Java**_:
   - **REST**ful web app development using Java framework **Spring Boot**
   - Android app development
-  - Desktop app development with GUI using **JavaFX**
+  - Desktop app development with GUI using **JavaFX** [Sudoku game](https://github.com/Yehor-Kovalenko/Sudoku)
   - **Hibernate + JPA framework**
   - Testing --> **JUnit**, **Mockito**, load testing using **JMeter**
 - **_Python_**
@@ -22,8 +25,8 @@ Hello, I am @Yehor-Kovalenko
         - Convolutional Neural Networks for image recognition (_YOLO_ model)
         - Graph Neural Networks
         - KNN, K-means for clusterisation and classification [DataAnalysis public repository](https://github.com/Yehor-Kovalenko/DataAnalysis)
-- **_JavaScript for frontend_**:
-    - Angular framework
+- **_JavaScript(Typescript) for frontend_**:
+    - Angular framework _(Progressive Web Apps, Single-page apps)_
     - Vue framework
 - **_C++_**
     - _Boost_ library
@@ -48,4 +51,12 @@ Hello, I am @Yehor-Kovalenko
 - Russian - Native
 ---
 ## Projects
-#### Hackathon winner - Collabothon 2024
+1. Project winning the _Collabothon 2024_ sponsored and organized by Commerzbank AG and Red Hat inc.
+	Project providig customizable and user-friendly widgets for the corporative clients of the Commerzbank AG
+ 	Backend part was written in Python, it also included ML model for data prediction. Frontend was written using Javascript, Typescript (React framework)
+  	Project was developed successfully in 3 days
+2. Managing and organizing team of 12 people on a large scale state-level project that could be used for coordinating actions in emergency situations. Main Solution Architect position. 
+3. Startup PWA “Home PharmCase” (Java + Spring boot + Hibernate, Angular + HTML + CSS)
+	A web application for monitoring and managing home medications. 
+	The app provides access to all essential information about medications and uses a fuzzy logic system to detect potential drug interactions. The frontend was built 	according to Single-Page Application and Progressive Web App architectures using the Angular framework (Typescript).
+	The application was containerized using Docker, with Prometheus and Grafana used for monitoring and deployed on a private server
