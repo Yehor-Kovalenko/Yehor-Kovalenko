@@ -1,5 +1,5 @@
 #### Hello, I am @Yehor-Kovalenko
-I am very ambitious person which is constantly learning. 
+I am very ambitious person who is constantly learning. 
 Winner of the hackathon for the big international bank for corporative clients.
 I love sports, especially climbing and rollerblading.
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/)) [My LinkedIn profile](https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/)
