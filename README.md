@@ -10,7 +10,7 @@ I love sports, especially climbing and rollerblading.
 ### Software Engineering
   - OOP principles --> SOLID, KISS, DRY
   - Software modeling using **UML diagrams**
-  - As a **Chief Solution Architect and Team Lead** managing and coordinating team of 12 software developers on a large-scale state level software project that could be used for coordinating actions and resources in the emergency situation
+  - As a **Chief Solution Architect and Team Lead** managing and coordinating team of 12 software developers on a large-scale state level educational software project that could be used for coordinating actions and resources in the emergency situation
   - **Design patterns** 
 ### LANGUAGES:
 - _**Java**_:
