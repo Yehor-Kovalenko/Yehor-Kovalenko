@@ -2,8 +2,18 @@
 I am very ambitious person who is constantly learning. 
 Winner of the hackathon for the big international bank for corporative clients.
 I love sports, especially climbing and rollerblading.
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/)) [My LinkedIn profile](https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/)
-- 📫 How to reach me ka.egor.ka@gmail.com
+<div align="left">
+	<a href="https://www.linkedin.com/in/yehor-kovalenko-3b02372b7/" target="_blank">
+    		<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  	</a>
+  	<a href="ka.egor.ka@gmail.com" target="_blank">
+    		<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+ 	 </a>
+<div>
+	
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yehor-Kovalenko&show_icons=true&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Yehor-Kovalenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2)
+  
 # Software Developer, ML developer
 ---
 ## Hard Skills
