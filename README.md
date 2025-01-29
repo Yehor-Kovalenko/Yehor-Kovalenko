@@ -1,4 +1,5 @@
-#### Hello, I am @Yehor-Kovalenko
+# Hello, I am @Yehor-Kovalenko, Software Developer, ML developer
+
 I am very ambitious person who is constantly learning. 
 Winner of the hackathon for the big international bank for corporative clients.
 I love sports, especially climbing and rollerblading.
@@ -10,63 +11,78 @@ I love sports, especially climbing and rollerblading.
     		<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
  	 </a>
 <div>
-	
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" height="40" />
+<img width="12" />	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" height="40" />
+<img width="12" />	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="40" />
+<img width="12" />	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40" />
+<img width="12" />	
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" />  
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" />
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="40" />
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" />
+	<img width="12" />
+	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />   
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" />
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" />
+	<img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
+  <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" />  
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" height="40" />
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" />
+	<img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+	<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="40" />
+  <img width="12" />
+</div>
+
+###
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yehor-Kovalenko&show_icons=true&theme=transparent)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Yehor-Kovalenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2)
   
-# Software Developer, ML developer
----
-## Hard Skills
-### Software Engineering
-  - OOP principles --> SOLID, KISS, DRY
-  - Software modeling using **UML diagrams**
-  - As a **Chief Solution Architect and Team Lead** managing and coordinating team of 12 software developers on a large-scale state level educational software project that could be used for coordinating actions and resources in the emergency situation
-  - **Design patterns** 
-### LANGUAGES:
-- _**Java**_:
-  - **REST**ful web app development using Java framework **Spring Boot**
-  - Android app development
-  - Desktop app development with GUI using **JavaFX** [Sudoku game](https://github.com/Yehor-Kovalenko/Sudoku)
-  - **Hibernate + JPA framework**
-  - Testing --> **JUnit**, **Mockito**, load testing using **JMeter**
-- **_Python_**
-    - Desktop apps
-    - Machine learning and neural networks models (**Pandas, OpenCV, PyTorch**)
-        - Convolutional Neural Networks for image recognition (_YOLO_ model)
-        - Graph Neural Networks
-        - KNN, K-means for clusterisation and classification [DataAnalysis public repository](https://github.com/Yehor-Kovalenko/DataAnalysis)
-- **_JavaScript(Typescript) for frontend_**:
-    - Angular framework _(Progressive Web Apps, Single-page apps)_
-    - Vue framework
-- **_C++_**
-    - _Boost_ library
-- **_SQL_** (_Microsoft SQL Server_, _PostgreSQL_)
-
-### Infrastructure
-- **Docker**
-- *Grafana + Prometheus* for real time monitoring
-- **Computer Networks:** 
-	- Routing
-	- TCP/UDP
-	- DHCP
-	- NAT
-	- HTTP/HTTPS
-- GIT
-- GNU/Linux (Debian, Fedora)
-### NATURAL LANGUAGES
-
-- Polish - C1 level - State Certificate of Proficiency in Polish as a Foreign Language
-- English - C1 level - FCE grade A - Cambridge University Press & Assessment English
-- Ukrainian - Native
-- Russian - Native
----
 ## Projects
-1. Project winning the _Collabothon 2024_ sponsored and organized by Commerzbank AG and Red Hat inc.
+1. Project winning the _Collabothon 2024_ sponsored and organized by Commerzbank AG and Red Hat inc. (React + python)
 	Project providig customizable and user-friendly widgets for the corporative clients of the Commerzbank AG
  	Backend part was written in Python, it also included ML model for data prediction. Frontend was written using Javascript, Typescript (React framework)
   	Project was developed successfully in 3 days
-2. Managing and organizing team of 12 people on a large scale state-level project that could be used for coordinating actions in emergency situations. Main Solution Architect position. 
-3. Startup PWA “Home PharmCase” (Java + Spring boot + Hibernate, Angular + HTML + CSS)
+2. Managing and organizing team of 12 people on a large scale state-level project that could be used for coordinating actions in emergency situations. Main Solution Architect position. [EmergencyProject backend](https://github.com/Yehor-Kovalenko/EmergencyProject), [EmergencyProject frontend](https://github.com/Yehor-Kovalenko/EmergencyProject_frontend),
+6. [Shaker app](https://www.amazon.com/gp/product/B0DTQC3XLF)
+   Make your drinking experience more engaging!
+	- Just choose your ingredients
+	- "Shake" like a profi
+	- Enjoy your chosen beverage!
+
+	App allows you to choose random ingredients from the list or generate cocktails and beverages you can make using your ingredients at home!
+	Lookup your statistics and your alco-wrapped 
+7. Startup PWA “Home PharmCase” (Java + Spring boot + Hibernate, Angular + HTML + CSS)
 	A web application for monitoring and managing home medications. 
 	The app provides access to all essential information about medications and uses a fuzzy logic system to detect potential drug interactions. The frontend was built 	according to Single-Page Application and Progressive Web App architectures using the Angular framework (Typescript).
 	The application was containerized using Docker, with Prometheus and Grafana used for monitoring and deployed on a private server
